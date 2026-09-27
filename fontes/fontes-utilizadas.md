@@ -173,6 +173,13 @@ Também estabelece princípios importantes, como:
 
 ---
 
+Links:
+
+Matriz de Referencia - https://www.gov.br/inep/pt-br/centrais-de-conteudo/acervo-linha-editorial/publicacoes-institucionais/avaliacoes-e-exames-da-educacao-basica/matrizes-de-referencia-enem?utm_source=chatgpt.com
+Provas e Gabaritos - https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos?utm_source=chatgpt.com
+
+---
+
 # Critério de Curadoria
 
 A seleção das fontes buscou combinar três tipos de informação:
